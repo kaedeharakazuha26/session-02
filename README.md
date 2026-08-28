@@ -12,3 +12,9 @@ This project demonstrates my first Git and GitHub workflow.
 - How to push a project to GitHub
 ## Author
 Jhomar John Picar
+
+ Today you moved from “I wrote a file” to “I can track and publish a project.”
+• Git is your project history.
+• GitHub is your public proof of work.
+• README.md is your explanation to reviewers.
+• The checkpoint skill is simple: edit → save → status → add → commit → push.
